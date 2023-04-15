@@ -1,7 +1,7 @@
 <h1>Contact List</h1>
 This repository contains a contact list application developed using HTML, CSS, and JavaScript. The application allows the user to add and delete contacts.
 
-The contact list is hosted on Vercel and can be accessed through the following link: https://vercel.com/gustavohkuhn/gustavo-contact-list-project.
+The contact list is hosted on Vercel and can be accessed through the following link: https://gustavo-contact-list-project.vercel.app/
 
 This project was developed as a exercise for Module 8 of the EBAC (Escola Britânica de Artes Criativas e Tecnologia) Front-End Engineer course.
 
